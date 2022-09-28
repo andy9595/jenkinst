@@ -1,0 +1,31 @@
+1.宏任务和微任务
+2.vue-router的原理
+3.xss和csrf
+4.http与https
+5.git 分支
+6.VUE生命周期的利用场所
+7.数组的方法
+8.数组去重的方法
+9.递归和闭包手写
+10.VUE双向绑定的原理
+11.VUE各组件传值的类型和如何传值
+12.cookies和session的请求机制
+13.各种响应码的意思
+14.boostrop响应式的底层原理
+15.C3动画的复习
+16.webpack的配置和打包原理
+17.适配中的物理像素和屏幕像素
+18.重排重绘阻塞是什么
+19.webpack解决跨域,在config中添加代理地址
+20.ES6 every 和 some / reduce语法
+21.webpack配置(需要看视频复习)
+22.watch的深度监听有什么区别
+23.git冲突怎么解决,config代理?
+24.promise对象的封装及原理(async await)
+
+25.for of 和 for in 
+for in能遍历数组和对象,结果为其属性名或下标,for of只能遍历数组的值
+
+26.改变this的指向的方法
+27.params和querey传参
+
